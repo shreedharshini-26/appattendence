@@ -1,0 +1,19 @@
+Session:,"2024 SPRING SEMESTER"
+Course:,"CO432-THEORY OF COMPUTATION "
+Faculty:,Pallabi
+total,4
+start,2024-09-01
+end,2024-09-27
+slno,roll_no,name,2024-09-01,2024-09-25,2024-09-26,2024-09-27,attended,percent
+1,CSB21002,"Emily Smith",P,P,P,P,4,100
+2,CSB21004,"Sophia Williams",P,P,P,P,4,100
+3,CSB21005,"Daniel Brown",P,P,P,P,4,100
+4,CSB21006,"Olivia Jones",A,A,A,P,1,25
+5,CSB21007,"Matthew Davis",A,A,P,P,2,50
+6,CSM21002,"Isabella Rodriguez",A,P,P,P,3,75
+7,CSM21003,"Ethan Martinez",A,P,P,P,3,75
+8,CSM21004,"Olivia Hernandez",A,P,P,P,3,75
+9,CSM21007,"Alexander Gonzalez",A,P,P,P,3,75
+10,CSM21008,"Ava Johnson",P,P,P,P,4,100
+11,CSM21009,"William Martinez",P,P,P,P,4,100
+12,CSM21012,"Emma Hernandez",P,P,P,P,4,100
